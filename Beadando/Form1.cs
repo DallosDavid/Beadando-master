@@ -124,7 +124,7 @@ namespace Beadando
                 listBox3.Items.Add(ws[0] + " (" + ws3[0]+"Ft/db)");
             }
             else {
-                MessageBox.Show("Kérem jelöljön ki mind 2 listából!" );
+                MessageBox.Show("Kérem jelöljön ki mind 2 listából! " );
             }*/
         }
 
